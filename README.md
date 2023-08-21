@@ -1,4 +1,4 @@
-# Harry_Potter Relations Network Graph
+# Harry_Potter Characters Relationships Network Graph
 
 - This project is created to visualize the relationships and communities between Harry Potter characters appeared on the novels.
 - The project is based on Thu Vu's YouTube tutorial link: https://www.youtube.com/watch?v=fAHkJ_Dhr50
